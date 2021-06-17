@@ -1,0 +1,24 @@
+.palett{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.palett-colors{
+    height: 90%;
+}
+
+.palatte-footer{
+    background-color: aquamarine;
+    height: 5vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    font-weight: bold;
+
+}
+
+.emoji{
+    font-size: 1.rem;
+    margin: 0 1rem;
+}
